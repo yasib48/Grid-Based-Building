@@ -386,29 +386,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 719511434}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 872437d9eda09e945b3a3b2c5d7ca7c4, type: 3}
+  m_Script: {fileID: 11500000, guid: 035c1d8d0b79eb7449c89a42e27ad392, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Width: 9
-  Height: 5
-  cellSize: 1
-  startOffset: {x: -4, y: -2}
-  Grid: {fileID: 2163190285325445267, guid: 1987d0d865c7d7d4d83cee996b74b715, type: 3}
-  shape: 0
-  useCustomShape: 0
-  customShape:
-  - cells: 010101010101010101
-  - cells: 010101010101010101
-  - cells: 010101010101010101
-  - cells: 010101010101010101
-  - cells: 010101010101010101
-  useCustomSoil: 1
-  customSoil:
-  - cells: 000000000000000000
-  - cells: 000000000000000000
-  - cells: 000001010101010000
-  - cells: 000000000000000000
-  - cells: 000000000000000000
 --- !u!4 &719511436
 Transform:
   m_ObjectHideFlags: 0
